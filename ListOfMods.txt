@@ -1,1 +1,1 @@
-AzuAnticheat,BetterWards,Compass,Groups,Network,ServerCharacters,Valheim.DisplayBepInExInfo,TrashItems,SmoothSave,LogoChanger,ChangeOfScenery
+AzuAnticheat,BetterWards,Compass,Groups,ServerCharacters,Valheim.DisplayBepInExInfo,TrashItems,SmoothSave
